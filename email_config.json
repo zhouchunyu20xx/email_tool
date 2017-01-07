@@ -1,0 +1,7 @@
+{
+  "from": "name@163.com",
+  "password": "*****",
+  "to": ["name@163.com"],
+  "subject": "hello,world",
+  "body": "body:hello world :)"
+}
